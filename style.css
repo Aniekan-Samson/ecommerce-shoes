@@ -463,6 +463,8 @@ footer {
 }
 
 
+/*========MEDIA QUERY==============*/
+
 @media screen and (max-width: 480px) {
     nav {
         padding: 20px;
